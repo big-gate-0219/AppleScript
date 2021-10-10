@@ -4,7 +4,7 @@ set RIGHT_BINDING to 123
 
 -- 挙動定義変数
 set pages to 5
-set savePath to "~/Documents/IoTの教科書/"
+set savePath to "~/Documents/*****/"
 set pageTurningDirection to LEFT_BINDING
 set captureSize to "1250x1850+1800+170"
 
